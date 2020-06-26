@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/az400june20lza/calculator/_apis/build/status/az400june20lza.calculator?branchName=master)]
+
